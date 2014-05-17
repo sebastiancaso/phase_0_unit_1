@@ -7,4 +7,14 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+There were many questions during this challenge I went to http://www.w3schools.com and used http://learn.shayhowe.com/ as well.
+
+I had trouble with the concept of relative versus absolute positioning at first, also the difference between padding and margins.  I think the GDI slides can be confusing without the proper context.  It seems as if they aer meant to go with a lecture, without them i find it somewhat difficult to use them to learn.
+
+I had seen a little HTMl already prior to this. I enjoyed seeing how CSS works and like how it is set up separately from the HTML document.
+
+I feel good about using the HTML tags to present information.  I need more time to practice positioning elements using CSS.
+
+I enjoyed being able to physically see the changes that I made.  I found it helped to understand what was being done.  
+
+I found opening and closing every tag in HTML to be tedious.    
