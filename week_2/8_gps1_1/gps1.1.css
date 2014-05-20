@@ -1,1 +1,38 @@
-/* include your css here */
+<style>
+
+h1 { 
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+
+.main {
+    margin: 0 auto;
+}
+
+
+.side {
+    float: left;
+    max-width: 225px;
+    margin: 5px;
+}
+
+.side img {
+    max-width: 200px;
+}
+
+.right img {
+    max-width: 200px;
+}
+
+}
+.right {
+    float: right;
+    max-width: 225px;
+    margin: 5px;
+}
+
+</style>
