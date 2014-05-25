@@ -7,12 +7,5 @@
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 
-What parts of your strategy worked? What problems did you face?
-What questions did you have while coding? What resources did you find to help you answer them?
-What concepts are you having trouble with, or did you just figure something out? If so, what?
-Did you learn any new skills or tricks?
-How confident are you with each of the Learning Competencies?
-Which parts of the challenge did you enjoy?
-Which parts of the challenge did you find tedious?
 
-The DOM is a way of structuring and identifying objects in a web page.  The need for having such a system makes perfect sense to me.  I do not think I fully grasp   
+The DOM is a way of structuring and identifying objects in a web page.  If I understand it correctly it is just the code of a web page. The differences I noticed between my site and wordpress were wordpress was obviously more complicated.  I noticed a lot of Javascript in the code for wordpress as well, which my site is lacking.  I thought Chrome Web Tools was great!  When trying to trouble shoot the HTML or CSS on my site being able to make changes directly on the site and seeing the reaction was very helpful.  It took me a few days before i realized that I could just right click and hit 'inspect element' to see exactly what I was looking at.  Had I realized that earlier I would have saved a lot of time.  I feel pretty good about using Chrome Web Tools, I'm not 100% comfortable saving changes made directly through Chrome Web Tools, but that will come with time.  I found this to be one of the more interesting challenges because we were able to see our changes in real time.  That solidified a lot of concepts for me and I will continue to use this tool in the future.
