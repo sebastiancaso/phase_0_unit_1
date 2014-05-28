@@ -1,7 +1,11 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
+var secretNumber = 7;
+var password = 'just open the door';
+var allowedIn = false
+var members = ['John', 0, 5, 'Mary']
 
 
 
@@ -12,9 +16,9 @@
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
+// JavaScript seems like it will be a very useful tool to use in the future.  I feel good about my knowledge of JavaScript at the moment.
+// I had quite of bit of trouble figuring out how to run the code below.  I finally figured out that I needed to put it in the chrome dev tool. 
+// Once I figured that out this challenge was quite easy.  I plan on reviewing JavaScript however to be sure to cement my knowledge of it.
 // 
 // 
 // 
