@@ -16,22 +16,42 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
+//pseudocode
+// create an object named adam 
+// add a proprty of name and assign name to "Adam"
+// create a new property called spouse to terah and assign adam to it
+// edit weight property of terah
+// delete the property of eyeColor from terah
+// create a new property for adam called spouse and assign its value to terah
+// create a new property fo terah called children assign an empty object to it
+// create new objects assigned a name variable and names to terahs children property
+// assign terahs children as adams as well
 
+var adam = {
+  name: "Adam"
+}
 
-
-
-
-
+terah.spouse = adam
+terah.weight = 125
+adam.spouse = terah
+terah.children = {}
+ delete terah.eyeColor
+ terah.children.carson = {name: "Carson"}
+ terah.children.carter = {name: "Carter"}
+ terah.children.colton = {name: "Colton"}
+ adam.children = terah.children
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
+// I was glad to see that JavaSCript shares many of the same concepts as Ruby.  It made using the language much less difficult to begin with.
+// Obviously there was some difficulty with the difference in syntax, however the overall concept seems to be very similar.  I learned how to create 
+// an object in JavaScript as well as to edit the objects characteristics.  I had problems with figuring out how to run the tests at first.
+// That was my main difficulty for this unit.  For some reason I did not understand what was meant by the console on your browser, I also had no idea what 
+// node.js was.  The challenge was fun, it's amazing how much satisfaction you can get from seeing something change from false to true.  I had problems with the 
+// last bit of the challange, creating the kids.  I understood what was being asked it was just a question of figuring out how to set it all up.
 // 
-// 
-// 
-// 
-// 
-// 
+ 
 
 
 // __________________________________________
