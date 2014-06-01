@@ -44,13 +44,15 @@ Shows what has been modified and is untracked.
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+git push origin master
 - Fetch changes
+git pull 
 - Commit locally
+git add . 
+git commit 
 
 ## Release 5: Errors you encountered
-1. Error
-2. Solution
-3. Cause (explain the error)
+I encountered no errors.
 
 ## Release 6: Reflection
 I have been using the command line for some time since I am running a VM on my windows desktop.  This was still a useful exercise as there were commands that I have never used before.  I had never used reset before and could see many scenarios where this would be helpful.  
